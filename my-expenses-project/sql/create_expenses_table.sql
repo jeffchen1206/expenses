@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS expenses (id SERIAL PRIMARY KEY, category VARCHAR(50), amount DECIMAL(10, 2), date DATE, note VARCHAR(255)); 
