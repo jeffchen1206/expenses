@@ -1,4 +1,4 @@
-![專案示意圖](0728excel.png)![專案示意圖](grafana0728.png)
+![excel](0728excel.png)![Grafana 圖表畫面](grafana0728.png)
 個人支出追蹤小助手
 這個專案幫你輕鬆管理支出！從 Excel 匯入數據到 PostgreSQL，再用 Grafana 打造直觀的支出圖表，簡單又好用。
 專案內容
